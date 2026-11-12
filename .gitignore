@@ -1,0 +1,28 @@
+# Python и среды
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.venv/
+venv/
+.env
+.idea/
+*.iml
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Личные служебные материалы
+.agent-notes/
+AGENTS.md
+CLAUDE.md
+COURSE_LINKS.md
+PROJECT_CONTEXT.md
+STATUS.md
+DECISIONS.md
+THEORY.md
+CHECKS.md
+
+# Другие работы и материалы курса
+Лабораторная 3/
+Lectures/
